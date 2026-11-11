@@ -45,9 +45,9 @@
   "type": "service",
   "upstream": [
     {
+      "arg": "UPSTREAM_VERSION",
       "repo": "near/nearcore",
-      "version": "2.13.4",
-      "arg": "UPSTREAM_VERSION"
+      "version": "2.14.1"
     }
   ],
   "version": "0.1.0"
